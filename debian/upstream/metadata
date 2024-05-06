@@ -1,0 +1,10 @@
+Bug-Database: https://github.com/nltk/nltk/issues
+Bug-Submit: https://github.com/nltk/nltk/issues/new
+Reference:
+  Author: Steven Bird and Ewan Klein and Edward Loper
+  Booktitle: Natural Language Processing with Python
+  Year: 2009
+  ISBN: 0596516495 9780596516499
+  Publisher: "O'Reilly Media, Inc."
+Repository: https://github.com/nltk/nltk.git
+Repository-Browse: https://github.com/nltk/nltk
