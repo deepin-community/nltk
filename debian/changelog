@@ -1,3 +1,15 @@
+nltk (3.9.4-1) unstable; urgency=medium
+
+  * New upstream version 3.9.4
+  * Security fixes:
+    - CVE-2026-33236: Fix path traversal in downloader (CWE-22)
+    - CVE-2026-33231: Bind WordNet browser to localhost only
+    - CVE-2026-33230: Fix XSS in wordnet_app lookup route
+    - CVE-2025-14009: Fix security vulnerability
+    - Additional security hardening for file and network access
+
+ -- deepin-ci-robot <packages@deepin.org>  Wed, 16 Apr 2026 16:52:00 +0800
+
 nltk (3.8.1-1) unstable; urgency=medium
 
   * New upstream version 3.8.1
